@@ -1,4 +1,3 @@
-
 print("Hello World!!")
 x=100
 y=200
@@ -19,8 +18,6 @@ add-a
 
 ・git add
 ・git commit
-・git rm
-・git status
 
 
 
