@@ -21,6 +21,7 @@ add-a
 ・git commit
 ・git rm
 ・git status
+・git diff
 
 
 
