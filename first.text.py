@@ -16,5 +16,8 @@ print(text1+text3)
 
 add-a
 
+・git add
+・git commit
+
 
 
